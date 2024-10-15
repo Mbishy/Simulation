@@ -1,4 +1,5 @@
 package org.example;
 
-public class Entity {
+abstract public class Entity {
+    private String name;
 }
